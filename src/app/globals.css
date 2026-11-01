@@ -1,0 +1,50 @@
+@import "tailwindcss";
+:root {
+  --background: #ffffff;
+  --foreground: #172b42;
+  --primary: #103f82;
+  --primary-foreground: #ffffff;
+  --muted: #f3f6f9;
+  --muted-foreground: #617287;
+  --accent: #edf3fa;
+  --accent-foreground: #103f82;
+  --border: #e1e7ee;
+  --input: #d5dee8;
+  --ring: #2877bc;
+}
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --font-sans: Arial, Helvetica, sans-serif;
+}
+* {
+  box-sizing: border-box;
+  border-color: var(--border);
+}
+body {
+  margin: 0;
+  background: #f5f7fa;
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+button,
+select {
+  cursor: pointer;
+}
+label {
+  display: block;
+}
+.preview-grid {
+  background-color: #edf1f5;
+  background-image: radial-gradient(#c9d3de 0.75px, transparent 0.75px);
+  background-size: 16px 16px;
+}

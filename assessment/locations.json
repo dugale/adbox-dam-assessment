@@ -1,0 +1,85 @@
+{
+  "corporate_account": "Harbor Point Bank",
+  "locations": [
+    {
+      "location_id": "LOC-001",
+      "location_name": "Harbor Point Bank - Downtown",
+      "address": "120 Main St, Grand Rapids, MI 49503",
+      "phone": "(616) 555-0101",
+      "manager_name": "Marcus Hill",
+      "logo_file": "logos/LOC-001.png"
+    },
+    {
+      "location_id": "LOC-002",
+      "location_name": "Harbor Point Bank - Eastside",
+      "address": "4410 Lake Dr SE, Grand Rapids, MI 49546",
+      "phone": "(616) 555-0102",
+      "manager_name": "Priya Nair",
+      "logo_file": "logos/LOC-002.png"
+    },
+    {
+      "location_id": "LOC-003",
+      "location_name": "Harbor Point Bank - Lakeshore",
+      "address": "88 Harbor Ave, Holland, MI 49423",
+      "phone": null,
+      "manager_name": "Dana Whitfield",
+      "logo_file": "logos/LOC-003.png"
+    },
+    {
+      "location_id": "LOC-004",
+      "location_name": "Harbor Point Bank - Northtown",
+      "address": "2201 Plainfield Ave NE, Grand Rapids, MI 49505",
+      "phone": "(616) 555-0104",
+      "manager_name": "Tom Okafor",
+      "logo_file": "logos/LOC-004.png"
+    },
+    {
+      "location_id": "LOC-005",
+      "location_name": "Harbor Point Bank - Kalamazoo",
+      "address": "301 W Michigan Ave, Kalamazoo, MI 49007",
+      "phone": "(269) 555-0105",
+      "manager_name": "Lena Brooks",
+      "logo_file": "logos/LOC-005.png"
+    },
+    {
+      "location_id": "LOC-006",
+      "location_name": "Harbor Point Bank - Lansing Capitol",
+      "address": "500 S Washington Sq, Lansing, MI 48933",
+      "phone": "(517) 555-0106",
+      "manager_name": "Jorge Santana",
+      "logo_file": "logos/LOC-006.png"
+    },
+    {
+      "location_id": "LOC-007",
+      "location_name": "Harbor Point Bank - Ann Arbor",
+      "address": "211 E Liberty St, Ann Arbor, MI 48104",
+      "phone": null,
+      "manager_name": "Aisha Rahman",
+      "logo_file": "logos/LOC-007.png"
+    },
+    {
+      "location_id": "LOC-008",
+      "location_name": "Harbor Point Bank - Traverse City",
+      "address": "140 E Front St, Traverse City, MI 49684",
+      "phone": "(231) 555-0108",
+      "manager_name": "Ben Carlisle",
+      "logo_file": "logos/LOC-008.png"
+    },
+    {
+      "location_id": "LOC-009",
+      "location_name": "Harbor Point Bank - Flint River",
+      "address": "432 S Saginaw St, Flint, MI 48502",
+      "phone": "(810) 555-0109",
+      "manager_name": "Keisha Monroe",
+      "logo_file": "logos/LOC-009.png"
+    },
+    {
+      "location_id": "LOC-010",
+      "location_name": "Harbor Point Bank - Dearborn",
+      "address": "15200 Michigan Ave, Dearborn, MI 48126",
+      "phone": "(313) 555-0110",
+      "manager_name": "Omar Haddad",
+      "logo_file": "logos/LOC-010.png"
+    }
+  ]
+}
